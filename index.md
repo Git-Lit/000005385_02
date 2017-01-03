@@ -1,3 +1,7 @@
+---
+layout: default
+title: comic history of England ... With twenty coloured etchings, and two hundred woodcuts. By John Leech.] (Volume 2)
+---
 <!-- This file was created from text provided by the British Library. --> 
 
 
